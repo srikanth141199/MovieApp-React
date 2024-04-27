@@ -6,7 +6,7 @@ class MovieCard extends React.Component{
         return <div className="main">
             <div className="movie-card">
                 <div className="left">
-                    <img src="" alt="Poster" />
+                    <img src="https://rukminim2.flixcart.com/image/850/1000/jv2p6kw0/poster/y/n/h/medium-endgame3jumbo-avengers-endgame-jumbo-poster-for-room-original-imafgyfvxjzuvkfu.jpeg?q=20&crop=false" alt="Poster" />
                 </div>
                 <div className="right">
                     <div className="title"></div>
